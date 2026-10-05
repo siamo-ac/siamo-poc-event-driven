@@ -1,0 +1,13 @@
+# Binaries and build output
+/eventdriven
+/eventdriven-test
+*.exe
+*.test
+
+# Go module cache artifacts (not the module itself)
+/vendor/
+
+# OS / editor noise
+.DS_Store
+.idea/
+.vscode/
